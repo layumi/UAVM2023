@@ -7,10 +7,14 @@
 Code Repos: 
 
 
-**The 1st place on the leaderboard (Recall@1 98.94)**
+Please note that this leaderboard is not the final ranking for competition. We will check the code.  
+
+**The 1st place on the leaderboard (Recall@1 98.94)** 
 
 (Public) https://github.com/Reza-Zhu/ACMMM23-Solution-MBEG/
 
+**The 2st place on the leaderboard (Recall@1 95.71)** 
+(Public) https://github.com/Skyy93/university160k_submission 
 
 **The 3rd place on the leaderboard (Recall@1 94.48)**
 
