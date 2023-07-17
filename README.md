@@ -10,19 +10,19 @@ Code Repos:
 :star: Please note that this leaderboard is not the final ranking for competition. We will check the code.  :star:
 
 
-1. **The 2st place on the leaderboard (Recall@1 95.71)** 
+:crown: 1. **The 2st place on the leaderboard (Recall@1 95.71)** 
 
 (Private) https://github.com/Skyy93/university160k_submission 
 
-2. **The 3rd place on the leaderboard (Recall@1 94.48)**
+:crown: 2. **The 3rd place on the leaderboard (Recall@1 94.48)**
 
 (Private) https://github.com/lzfff12/ACMMM23-Multimedia-Drone-Satellite-Matching-Challenge-Rank-3 
 
-3. **The 4th place on the leaderboard (Recall@1 92.77)**
+:crown: 3. **The 4th place on the leaderboard (Recall@1 92.77)**
 
 (Public) https://github.com/Xenogenesis1/MLPN_workshop 
 
-4. **The 6th place on the leaderboard (Recall@1 90.02)**
+:crown: 4. **The 6th place on the leaderboard (Recall@1 90.02)**
 
 (Public) https://github.com/HuHu246/DPN
 
