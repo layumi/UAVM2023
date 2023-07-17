@@ -7,7 +7,7 @@
 Code Repos: 
 
 
-Please note that this leaderboard is not the final ranking for competition. We will check the code.  
+:star: Please note that this leaderboard is not the final ranking for competition. We will check the code.  :star:
 
 **The 1st place on the leaderboard (Recall@1 98.94)** 
 
