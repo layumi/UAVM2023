@@ -18,6 +18,9 @@ Code Repos:
 
 (Private) https://github.com/lzfff12/ACMMM23-Multimedia-Drone-Satellite-Matching-Challenge-Rank-3 
 
+**The 4th place on the leaderboard (Recall@1 92.77)**
+
+(Public) https://github.com/Xenogenesis1/MLPN_workshop 
 
 **The 6th place on the leaderboard (Recall@1 90.02)**
 
