@@ -9,9 +9,6 @@ Code Repos:
 
 :star: Please note that this leaderboard is not the final ranking for competition. We will check the code.  :star:
 
-**The 1st place on the leaderboard (Recall@1 98.94)** 
-
-(Public) https://github.com/Reza-Zhu/ACMMM23-Solution-MBEG/
 
 **The 2st place on the leaderboard (Recall@1 95.71)** 
 
@@ -25,6 +22,17 @@ Code Repos:
 **The 6th place on the leaderboard (Recall@1 90.02)**
 
 (Public) https://github.com/HuHu246/DPN
+
+
+
+### Using University-1652 test data
+
+We do not encourage the team to use the University-1652 test data, since it will leak the ground-truth annotation for the extension dataset (University-160k). 
+We are sorry for the following teams:
+
+**The 1st place on the leaderboard (Recall@1 98.94)** 
+
+(Public) https://github.com/Reza-Zhu/ACMMM23-Solution-MBEG/ 
 
 
 ### Codalab Leaderboard
