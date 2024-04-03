@@ -36,7 +36,7 @@ Code Repos:
 We do not encourage the team to use the University-1652 test data, since it will leak the ground-truth annotation for the extension dataset (University-160k). 
 We are sorry for the following teams:
 
-**The 1st place on the leaderboard (Recall@1 98.94 violate rule)** 
+**The 1st place on the leaderboard (Recall@1 98.94 removed due to the rule violation)** 
 
 (Public) https://github.com/Reza-Zhu/ACMMM23-Solution-MBEG/ 
 
